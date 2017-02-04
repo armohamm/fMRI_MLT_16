@@ -44,7 +44,7 @@ nearest neighbour :
     considering all the features to begin with and removing features while performance increases).
 
 
-##Implementation :
+#Implementation :
  using regression model :
     so we had N*D data and each N had a value .
     we mapped each value to the feature matrix ( given separately for each value of Y . so we now have
