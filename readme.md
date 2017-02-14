@@ -43,7 +43,7 @@ one more thing, each eg here was taken as the average of the image during 4s spa
     considering all the features to begin with and removing features while performance increases).
 
 ##Report
-`CS771Midtermprojectreport.pdf` contains detailed description of the project done
+`final_project_13511.pdf` contains detailed description of the project done
 
 ##Implementation :
  **using regression model :**
